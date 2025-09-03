@@ -39,28 +39,32 @@
 
 ---
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+---
+
+
 ### 🏆 GitHub Trophies
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=rachanivas04&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rachanivas04&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rachanivas04&show_icons=true&theme=radical" alt="Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachanivas04&layout=compact&theme=radical" alt="Top Langs" height="165"/>
-</p>
+<h3 align="left">📊 GitHub Stats:</h3>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rachanivas04&theme=radical" alt="Streak Stats"/>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rachanivas04&show_icons=true&locale=en&layout=compact&theme=dark" alt="rachanivas04" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rachanivas04&show_icons=true&locale=en&theme=dark" alt="rachanivas04" /></p>
 
 ---
+### GitHub Streak
 
-### 🐍 Snake Contribution Graph
-<div align="center">
-  <img src="https://github.com/rachanivas04/rachanivas04/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rachanivas04&theme=dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
 
----
+
+
+
