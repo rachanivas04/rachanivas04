@@ -15,6 +15,11 @@
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Databases, etc**
 - 📫 How to reach me **rachchanivas0107@gmail.com**
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 ---
 
 <h3 align="left">Connect with me:</h3>
