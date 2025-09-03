@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Racha Nivas</h1>
-<h3 align="center">🚀 Full Stack Developer in Progress | MERN | Java | Passionate about DSA</h3>
-
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00CFFC&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Racha+Nivas;Full+Stack+Developer;MERN+%7C+Java+%7C+DSA+Enthusiast" alt="Typing SVG" />
+</p>
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on [Web Development Projects](https://github.com/rachanivas04/web_dev_projects)  
@@ -10,7 +9,7 @@
 - 📫 Reach me at **rachchanivas0107@gmail.com**  
 - ⚡ Fun fact: *I love building real-world projects and problem solving*  
 
----
+
 
 ### 🌐 Connect with Me
 <p align="left">
@@ -19,7 +18,7 @@
 <a href="https://www.leetcode.com/racha_nivas" target="blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
----
+
 
 ### 🛠️ Languages and Tools
 <p align="left"> 
@@ -37,14 +36,16 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
 </p>
 
----
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=rachanivas04&label=Profile%20views&color=0e75b6&style=flat" alt="rachanivas04" /> 
+</p>
 
 <!-- Snake Game Repo View -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
----
+
 
 
 ### 🏆 GitHub Trophies
@@ -52,7 +53,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=rachanivas04&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
----
+
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
@@ -60,10 +61,32 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rachanivas04&show_icons=true&locale=en&theme=dark" alt="rachanivas04" /></p>
 
----
-### GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rachanivas04&theme=dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
+### 📈 My GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rachanivas04&bg_color=1f222e&color=66d9ef&line=8be9fd&point=ff79c6&hide_border=true" />
+
+
+
+
+
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=6A5ACD&width=600&lines=Thanks+for+visiting+my+profile!;Let's+collaborate+and+learn+together!;Have+a+great+day+🚀" alt="Typing SVG" />
+</p>
+
+
+
+
+
+
+
+
+
 
 
 
