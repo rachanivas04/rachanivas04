@@ -3,11 +3,11 @@
 </p>
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on [Web Development Projects](https://github.com/rachanivas04/web_dev_projects)  
-- 🌱 I’m currently learning **MERN Stack, Java, Databases, and Cloud**  
-- 💬 Ask me about **Java, MERN, SQL, DSA**  
-- 📫 Reach me at **rachchanivas0107@gmail.com**  
-- ⚡ Fun fact: *I love building real-world projects and problem solving*  
+👋 Hi, I'm a B.Tech CSE student and CCNA Certified Junior Network Engineer.  
+🌐 I have hands-on knowledge of Routing, Switching, VLANs, and Network Troubleshooting.  
+🛡️ Currently learning Enterprise Networking, Security, and real-world network design.  
+🚀 Passionate about building reliable, secure, and scalable networks.
+ 
 
 
 
